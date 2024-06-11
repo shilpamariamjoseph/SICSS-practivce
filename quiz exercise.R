@@ -23,5 +23,5 @@ df <- birth_dates %>%
   mutate(weekday_of_birth = get_weekday(birthdate))
 print(birth_dates)
   
-
+5+5
 
